@@ -29,3 +29,25 @@
 	list-style: none;
 	display: inline;
 }
+
+#prompt
+{
+	background-color: #fff;
+	width: 100px;
+	height: 20px;
+	border: 1px solid #000;
+	padding: 0px;
+	margin-top: 100px;
+	margin-left: 200px;
+}
+
+#prompt-text
+{
+	margin: none;
+	padding: none;
+}
+
+#prompt-text p
+{
+	margin: 0px;
+}
