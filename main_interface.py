@@ -1,5 +1,8 @@
 from Tkinter import *
-import tkMessageBox, Tkconstants, tkFileDialog, time
+import tkMessageBox
+import Tkconstants
+import tkFileDialog
+import time
 import os
 
 def callback():
