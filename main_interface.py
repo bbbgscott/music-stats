@@ -19,7 +19,7 @@ class App:
 		frame = Frame(master, width=600, height=400)
 		frame.pack(padx=10)
 		
-		if os.name =='nt':
+		if os.name == 'nt':
 			photo = PhotoImage(file="images\logo.gif")
 		elif os.name == 'posix':
 			photo = PhotoImage(file="images/logo.gif")
@@ -79,7 +79,10 @@ class App:
 	def album(self):
 		top = Toplevel()
 		top.title("Music Stats - Album")
-		graph = PhotoImage(file="\project\images\graph_album.gif")
+		if os.name == 'nt':
+			graph = PhotoImage(file="\project\images\graph_album.gif")
+		elif os.name == 'posix':
+			graph = PhotoImage(file="/project/images/graph_album.gif")
 		lPhoto = Label(top, image=graph)
 		lPhoto.image=graph
 		lPhoto.pack(side=TOP)
@@ -89,7 +92,10 @@ class App:
 	def artist(self):
 		top = Toplevel()
 		top.title("Music Stats - Artist/Band")
-		graph = PhotoImage(file="\project\images\graph_artist.gif")
+		if os.name == 'nt':
+			graph = PhotoImage(file="\project\images\graph_artist.gif")
+		elif os.name == 'posix':
+			graph = PhotoImage(file="/project/images/graph_artist.gif")
 		lPhoto = Label(top, image=graph)
 		lPhoto.image=graph
 		lPhoto.pack(side=TOP)
@@ -99,7 +105,10 @@ class App:
 	def genre(self):
 		top = Toplevel()
 		top.title("Music Stats - Musical Genre")
-		graph = PhotoImage(file="\project\images\graph_genre.gif")
+		if os.name == 'nt':
+			graph = PhotoImage(file="\project\images\graph_genre.gif")
+		elif os.name == 'posix':
+			graph = PhotoImage(file="/project/images/graph_genre.gif")
 		lPhoto = Label(top, image=graph)
 		lPhoto.image=graph
 		lPhoto.pack(side=TOP)
@@ -109,7 +118,10 @@ class App:
 	def length(self):
 		top = Toplevel()
 		top.title("Music Stats - Length of Songs")
-		graph = PhotoImage(file="\project\images\graph_length.gif")
+		if os.name = 'nt':
+			graph = PhotoImage(file="\project\images\graph_length.gif")
+		elif os.name = 'posix':
+			graph = PhotoImage(file="/project/images/graph_length.gif")
 		lPhoto = Label(top, image=graph)
 		lPhoto.image=graph
 		lPhoto.pack(side=TOP)
@@ -119,7 +131,10 @@ class App:
 	def year(self):
 		top = Toplevel()
 		top.title("Music Stats - Year Released")
-		graph = PhotoImage(file="\project\images\graph_year.gif")
+		if os.name = 'nt':
+			graph = PhotoImage(file="\project\images\graph_year.gif")
+		elif os.name = 'posix':
+			graph = PhotoImage(file="/project/images/graph_year.gif")
 		lPhoto = Label(top, image=graph)
 		lPhoto.image=graph
 		lPhoto.pack(side=TOP)
