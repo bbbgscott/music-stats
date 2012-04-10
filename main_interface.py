@@ -4,6 +4,8 @@ import Tkconstants
 import tkFileDialog
 import time
 import os
+import MusicStats
+from MusicStats import *
 
 def callback():
 	print "Call from Callback"
@@ -50,8 +52,10 @@ class App:
 
 	def askdir(self):
 		"""Returns a selected directoryname."""
+		stats = DirWalker()
 		dirName = tkFileDialog.askdirectory(**self.dir_opt)
-		print dirName
+		stats.walk(dirName, stats.cb)
+		#print dirName
 		return dirName		
 		
 		
