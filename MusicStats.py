@@ -17,9 +17,14 @@ class DirWalker(object):
 	def cb(self, file):
 		allowedList = [".wav", ".aif", ".mp3", ".mid", ".ogg", ".m4a", ".mpa", ".wma"]
 		ext = os.path.splitext(file)
+		tag = eyeD3.Tag()
+		tag.link(file)
 		#print ext[1]
 		if os.path.splitext(file)[1] in allowedList:
 			print os.path.splitext(file)[0] + ext[1]
+			print "Artist: "+tag.getArtist()
+			print "Album: "+tag.getAlbum()
+			print "Title: "+tag.getTitle()
 
 def stripPath(file):
 	if file.partition('\\')[2]:

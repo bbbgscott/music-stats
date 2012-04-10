@@ -1,8 +1,9 @@
+#!/usr/bin/python
+
 from Tkinter import *
 import tkMessageBox
 import Tkconstants
 import tkFileDialog
-import time
 import os
 import MusicStats
 from MusicStats import *
