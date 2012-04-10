@@ -121,9 +121,9 @@ class App:
 	def length(self):
 		top = Toplevel()
 		top.title("Music Stats - Length of Songs")
-		if os.name = 'nt':
+		if os.name == 'nt':
 			graph = PhotoImage(file="\project\images\graph_length.gif")
-		elif os.name = 'posix':
+		elif os.name == 'posix':
 			graph = PhotoImage(file="/project/images/graph_length.gif")
 		lPhoto = Label(top, image=graph)
 		lPhoto.image=graph
@@ -134,9 +134,9 @@ class App:
 	def year(self):
 		top = Toplevel()
 		top.title("Music Stats - Year Released")
-		if os.name = 'nt':
+		if os.name == 'nt':
 			graph = PhotoImage(file="\project\images\graph_year.gif")
-		elif os.name = 'posix':
+		elif os.name == 'posix':
 			graph = PhotoImage(file="/project/images/graph_year.gif")
 		lPhoto = Label(top, image=graph)
 		lPhoto.image=graph
