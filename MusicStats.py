@@ -2,6 +2,7 @@ import os
 import sys
 import eyeD3
 import xml.sax.handler
+import re
 
 # Thanks to http://ssscripting.wordpress.com/2009/03/03/python-recursive-directory-walker/
 class DirWalker(object):
@@ -27,7 +28,10 @@ class DirWalker(object):
 			print "Title: %s" % tag.getTitle()
 			print "Year: %s" % tag.getYear()
 			print "Track#: %s" % tag.getTrackNum()[0]
-			print "Genre: %s" % tag.getGenre()[1]
+			g = str(tag.getGenre())
+			print "g = %s" % g
+			m = re.search('(?<=\\))\w+', g)
+			print "Genre: %s" % m
 
 def stripPath(file):
 	if file.partition('\\')[2]:
