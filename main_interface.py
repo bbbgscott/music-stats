@@ -7,6 +7,8 @@ import tkFileDialog
 import os
 import MusicStats
 from MusicStats import *
+import parseXML
+from parseXML import *
 
 def callback():
 	print "Call from Callback"

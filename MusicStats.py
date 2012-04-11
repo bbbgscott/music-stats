@@ -22,9 +22,12 @@ class DirWalker(object):
 		#print ext[1]
 		if os.path.splitext(file)[1] in allowedList:
 			print os.path.splitext(file)[0] + ext[1]
-			print "Artist: "+tag.getArtist()
-			print "Album: "+tag.getAlbum()
-			print "Title: "+tag.getTitle()
+			print "Artist: %s" % tag.getArtist()
+			print "Album: %s" % tag.getAlbum()
+			print "Title: %s" % tag.getTitle()
+			print "Year: %s" % tag.getYear()
+			print "Track#: %s" % tag.getTrackNum()[0]
+			print "Genre: %s" % tag.getGenre()[1]
 
 def stripPath(file):
 	if file.partition('\\')[2]:
