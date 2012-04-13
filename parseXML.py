@@ -3,21 +3,23 @@ from elementtree.SimpleXMLWriter import XMLWriter
 
 import sys
 
-def run(self):
+def run():
 	x = XMLWriter("test.xml")
 
 	musicLibrary = x.start("musciLibrary")
 
 	x.start("song")
-	x.element("id", "1")
-	x.element("title", "Numb/Encore")
+	x.element("id", "2")
+	x.element("title", "Jigga What/Faint")
 	x.element("artist", "Linkin Park/Jay Z")
 	x.element("year", "2004")
-	x.element("trackNumber", "4")
+	x.element("trackNumber", "3")
 	x.element("totalTracks", "6")
 	x.element("genre", "Rap/Nu Metal")
 	x.end("song")
 	x.close(musicLibrary)
+
+run()
 
 #root = ET.Element("musicLibrary")
 """

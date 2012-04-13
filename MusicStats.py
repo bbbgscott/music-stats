@@ -11,9 +11,10 @@ class DirWalker(object):
 		dir = os.path.abspath(dir)
 		for file in [file for file in os.listdir(dir) if not file in [".", ".."]]:
 			nfile = os.path.join(dir, file)
-			meth(nfile)
 			if os.path.isdir(nfile):
 				self.walk(nfile, meth)
+			else:
+				meth(nfile)
 
 	def cb(self, file):
 		allowedList = [".wav", ".aif", ".mp3", ".mid", ".ogg", ".m4a", ".mpa", ".wma"]
@@ -29,9 +30,8 @@ class DirWalker(object):
 			print "Year: %s" % tag.getYear()
 			print "Track#: %s" % tag.getTrackNum()[0]
 			g = str(tag.getGenre())
-			print "g = %s" % g
 			m = re.search('(?<=\\))\w+', g)
-			print "Genre: %s" % m
+			print "Genre: %s" % str(m.group(0))
 
 def stripPath(file):
 	if file.partition('\\')[2]:
