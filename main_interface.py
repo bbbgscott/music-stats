@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 from Tkinter import *
 import tkMessageBox
 import Tkconstants
