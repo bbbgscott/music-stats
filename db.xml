@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<musicLibrary>
+	<song id="001">
+		<title></title>
+		<artist></artist>
+		<album></album>
+		<year></year>
+		<trackNumber></trackNumber>
+		<totalTracks></totalTracks>
+		<genre></genre>
+	</song>
+</musicLibrary>
