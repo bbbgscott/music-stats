@@ -1,5 +1,6 @@
 import elementtree.ElementTree as ET
 from elementtree.SimpleXMLWriter import XMLWriter
+import os.path
 
 import sys
 

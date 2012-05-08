@@ -62,16 +62,6 @@ class App:
 		
 	def run(self):
 		print "\nAnalyzing Data"
-		time.sleep(1)
-		print "."
-		time.sleep(1)
-		print "."
-		time.sleep(1)
-		print "."
-		time.sleep(1)
-		print "."
-		time.sleep(1)
-		print "."
 		top = Toplevel()
 		top.title("Catagory")
 		top.label1  = Label(top, text="Please Select the Statistics You Would Like to View in Graphical Form. \n", wraplength=225).pack()
@@ -88,9 +78,9 @@ class App:
 		top = Toplevel()
 		top.title("Music Stats - Album")
 		if os.name == 'nt':
-			graph = PhotoImage(file="\project\images\graph_album.gif")
+			graph = PhotoImage(file="images\graph_album.gif")
 		elif os.name == 'posix':
-			graph = PhotoImage(file="/project/images/graph_album.gif")
+			graph = PhotoImage(file="images/graph_album.gif")
 		lPhoto = Label(top, image=graph)
 		lPhoto.image=graph
 		lPhoto.pack(side=TOP)
