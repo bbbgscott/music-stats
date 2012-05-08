@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+<musicLibrary>
+	<SONG>
+		<TITLE>Somebody That I Used To Know Feat. Kimbra</TITLE>
+		<ARTIST>Gotye</ARTIST>
+		<ALBUM>Making Mirrors</ALBUM>
+		<YEAR>2010</YEAR>
+		<TRACK>4</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Electronic</GENRE>  <!-- ID: 52 -->
+	</SONG>
+	<SONG>
+		<TITLE>Blowin' In the Wind</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>1</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Girl From the North Country</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>2</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Masters Of War</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>3</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Down the Highway</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>4</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Bob Dylan's Blues</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>5</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>A Hard Rain's A-Gonna Fall</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>6</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Don't Think Twice, It's All Right</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>7</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Bob Dylan's Dream</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>8</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Oxford Town</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>9</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Talkin' World War III Blues</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>10</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Corrina, Corrina</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>11</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>Honey, Just Allow Me One More Chance</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>12</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>I Shall Be Free</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<ALBUM>Freewheelin' Bob Dylan</ALBUM>
+		<YEAR>1963</YEAR>
+		<TRACK>13</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Folk</GENRE> <!-- ID: 80 -->
+	</SONG>
+	<SONG>
+		<TITLE>One Way Ticket</TITLE>
+		<ARTIST>Carrie Underwood</ARTIST>
+		<ALBUM>Blown Away</ALBUM>
+		<YEAR>2012</YEAR>
+		<TRACK>2</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Country</GENRE> <!-- ID: 2 -->
+	</SONG>
+	<SONG>
+		<TITLE>Blur</TITLE>
+		<ARTIST>Britney Spears</ARTIST>
+		<ALBUM>Circus</ALBUM>
+		<YEAR>2008</YEAR>
+		<TRACK>8</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Pop</GENRE> <!-- ID: 13 -->
+	</SONG>
+	<SONG>
+		<TITLE>Drive My Car</TITLE>
+		<ARTIST>The Beatles</ARTIST>
+		<ALBUM>Rubber Soul</ALBUM>
+		<YEAR>1965</YEAR>
+		<TRACK>1</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Classic Rock</GENRE> <!-- ID: 1 -->
+	</SONG>
+	<SONG>
+		<TITLE>Nowhere Man</TITLE>
+		<ARTIST>The Beatles</ARTIST>
+		<ALBUM>Rubber Soul</ALBUM>
+		<YEAR>1965</YEAR>
+		<TRACK>4</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Classic Rock</GENRE> <!-- ID: 1 -->
+	</SONG>
+	<SONG>
+		<TITLE>Run For Your Life</TITLE>
+		<ARTIST>The Beatles</ARTIST>
+		<ALBUM>Rubber Soul</ALBUM>
+		<YEAR>1965</YEAR>
+		<TRACK>12</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Classic Rock</GENRE> <!-- ID: 1 -->
+	</SONG>
+	<SONG>
+		<TITLE>Three Little Birds</TITLE>
+		<ARTIST>Bob Marley</ARTIST>
+		<ALBUM>Legend</ALBUM>
+		<YEAR>1984</YEAR>
+		<TRACK>4</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Reggae</GENRE> <!-- ID: 16 -->
+	</SONG>
+	<SONG>
+		<TITLE>Jamming</TITLE>
+		<ARTIST>Bob Marley</ARTIST>
+		<ALBUM>Legend</ALBUM>
+		<YEAR>1984</YEAR>
+		<TRACK>15</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Reggae</GENRE> <!-- ID: 16 -->
+	</SONG>
+	<SONG>
+		<TITLE>Thriller</TITLE>
+		<ARTIST>Michael Jackson</ARTIST>
+		<ALBUM>Thriller</ALBUM>
+		<YEAR>1982</YEAR>
+		<TRACK>4</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Pop</GENRE> <!-- ID: 13 -->
+	</SONG>
+	<SONG>
+		<TITLE>Beat It</TITLE>
+		<ARTIST>Michael Jackson</ARTIST>
+		<ALBUM>Thriller</ALBUM>
+		<YEAR>1982</YEAR>
+		<TRACK>5</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Pop</GENRE> <!-- ID: 13 -->
+	</SONG>
+	<SONG>
+		<TITLE>Billie Jean</TITLE>
+		<ARTIST>Michael Jackson</ARTIST>
+		<ALBUM>Thriller</ALBUM>
+		<YEAR>1982</YEAR>
+		<TRACK>6</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Pop</GENRE> <!-- ID: 13 -->
+	</SONG>
+	<SONG>
+		<TITLE>The Way You Make Me Feel</TITLE>
+		<ARTIST>Michael Jackson</ARTIST>
+		<ALBUM>Bad</ALBUM>
+		<YEAR>1987</YEAR>
+		<TRACK>2</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Pop</GENRE> <!-- ID: 13 -->
+	</SONG>
+	<SONG>
+		<TITLE>You Should Be Dancing</TITLE>
+		<ARTIST>The Bee Gees</ARTIST>
+		<ALBUM>Children of The World</ALBUM>
+		<YEAR>1976</YEAR>
+		<TRACK>1</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Disco</GENRE> <!-- ID: 4 -->
+	</SONG>
+	<SONG>
+		<TITLE>Stayin Alive</TITLE>
+		<ARTIST>The Bee Gees</ARTIST>
+		<ALBUM>Saturday Night Fever</ALBUM>
+		<YEAR>1977</YEAR>
+		<TRACK>1</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Disco</GENRE> <!-- ID: 4 -->
+	</SONG>
+	<SONG>
+		<TITLE>Night Fever</TITLE>
+		<ARTIST>The Bee Gees</ARTIST>
+		<ALBUM>Saturday Night Fever</ALBUM>
+		<YEAR>1977</YEAR>
+		<TRACK>3</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Disco</GENRE> <!-- ID: 4 -->
+	</SONG>
+	<SONG>
+		<TITLE>Clampdown</TITLE>
+		<ARTIST>The Clash</ARTIST>
+		<ALBUM>London Calling</ALBUM>
+		<YEAR>1979</YEAR>
+		<TRACK>9</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Punk</GENRE> <!-- ID: 43 -->
+	</SONG>
+	<SONG>
+		<TITLE>Train In Vain</TITLE>
+		<ARTIST>The Clash</ARTIST>
+		<ALBUM>London Calling</ALBUM>
+		<YEAR>1979</YEAR>
+		<TRACK>19</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Punk</GENRE> <!-- ID: 43 -->
+	</SONG>
+	<SONG>
+		<TITLE>What's My Age Again?</TITLE>
+		<ARTIST>Blink 182</ARTIST>
+		<ALBUM>Enema of The State</ALBUM>
+		<YEAR>1999</YEAR>
+		<TRACK>5</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Punk Rock</GENRE> <!-- ID: 121 -->
+	</SONG>
+	<SONG>
+		<TITLE>All The Small Things</TITLE>
+		<ARTIST>Blink 182</ARTIST>
+		<ALBUM>Enema of The State</ALBUM>
+		<YEAR>1999</YEAR>
+		<TRACK>8</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Punk Rock</GENRE> <!-- ID: 121 -->
+	</SONG>
+	<SONG>
+		<TITLE>Dammit</TITLE>
+		<ARTIST>Blink 182</ARTIST>
+		<ALBUM>Dude Ranch</ALBUM>
+		<YEAR>1997</YEAR>
+		<TRACK>3</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Punk Rock</GENRE> <!-- ID: 121 -->
+	</SONG>
+	<SONG>
+		<TITLE>Serve The Servants</TITLE>
+		<ARTIST>Nirvana</ARTIST>
+		<ALBUM>In Utero</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>1</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Grunge</GENRE> <!-- ID: 6 -->
+	</SONG>	
+	<SONG>
+		<TITLE>Heart Shaped Box</TITLE>
+		<ARTIST>Nirvana</ARTIST>
+		<ALBUM>In Utero</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>3</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Grunge</GENRE> <!-- ID: 6 -->
+	</SONG>
+	<SONG>
+		<TITLE>Farther Along</TITLE>
+		<ARTIST>Randy Travis</ARTIST>
+		<ALBUM>Worship and Faith</ALBUM>
+		<YEAR>2003</YEAR>
+		<TRACK>2</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Country</GENRE> <!-- ID: 2 -->
+	</SONG>
+	<SONG>
+		<TITLE>Shall We Gather at the River?</TITLE>
+		<ARTIST>Randy Travis</ARTIST>
+		<ALBUM>Worship and Faith</ALBUM>
+		<YEAR>2003</YEAR>
+		<TRACK>5</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Country</GENRE> <!-- ID: 2 -->
+	</SONG>
+	<SONG>
+		<TITLE>You Are Worthy of My Praise</TITLE>
+		<ARTIST>Randy Travis</ARTIST>
+		<ALBUM>Worship and Faith</ALBUM>
+		<YEAR>2003</YEAR>
+		<TRACK>6</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Country</GENRE> <!-- ID: 2 -->
+	</SONG>
+	<SONG>
+		<TITLE>Blessed Assurance</TITLE>
+		<ARTIST>Randy Travis</ARTIST>
+		<ALBUM>Worship and Faith</ALBUM>
+		<YEAR>2003</YEAR>
+		<TRACK>10</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Country</GENRE> <!-- ID: 2 -->
+	</SONG>
+	<SONG>
+		<TITLE>Open the Eyes of My Heart</TITLE>
+		<ARTIST>Randy Travis</ARTIST>
+		<ALBUM>Worship and Faith</ALBUM>
+		<YEAR>2003</YEAR>
+		<TRACK>13</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Country</GENRE> <!-- ID: 2 -->
+	</SONG>
+	<SONG>
+		<TITLE>Straight Outta Compton</TITLE>
+		<ARTIST>N.W.A.</ARTIST>
+		<ALBUM>Straight Outta Compton</ALBUM>
+		<YEAR>1988</YEAR>
+		<TRACK>1</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Rap</GENRE> <!-- ID: 15 -->
+	</SONG>	
+	<SONG>
+		<TITLE>Gangsta Gangsta</TITLE>
+		<ARTIST>N.W.A.</ARTIST>
+		<ALBUM>Straight Outta Compton</ALBUM>
+		<YEAR>1988</YEAR>
+		<TRACK>3</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Rap</GENRE> <!-- ID: 15 -->
+	</SONG>	
+	<SONG>
+		<TITLE>Express Yourself</TITLE>
+		<ARTIST>N.W.A.</ARTIST>
+		<ALBUM>Straight Outta Compton</ALBUM>
+		<YEAR>1988</YEAR>
+		<TRACK>8</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Rap</GENRE> <!-- ID: 15 -->
+	</SONG>	
+	<SONG>
+		<TITLE>Quiet on tha Set</TITLE>
+		<ARTIST>N.W.A.</ARTIST>
+		<ALBUM>Straight Outta Compton</ALBUM>
+		<YEAR>1988</YEAR>
+		<TRACK>12</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Rap</GENRE> <!-- ID: 15 -->
+	</SONG>	
+	<SONG>
+		<TITLE>I Wanna Get High</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>1</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>I Ain't Goin' Out Like That</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>2</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>Insane In The Brain</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>3</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>When The Sh-- Goes Down</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>4</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>Lick A Shot</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>5</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>Cock The Hammer</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>6</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>Interlude</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>7</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>Lil' Putos</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>8</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>Legalize It</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>9</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>Hits From The Bong</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>10</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>	
+	<SONG>
+		<TITLE>What Go Around Come Around, Kid</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>11</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>A To The K</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>12</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>Hand On The Glock</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>13</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+	<SONG>
+		<TITLE>Break 'Em Off Some</TITLE>
+		<ARTIST>Cypress Hill</ARTIST>
+		<ALBUM>Black Sunday</ALBUM>
+		<YEAR>1993</YEAR>
+		<TRACK>14</TRACK>
+		<LENGTH></LENGTH>
+		<GENRE>Hip-Hop</GENRE> <!-- ID: 7 -->
+	</SONG>
+</musicLibrary>
