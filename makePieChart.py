@@ -6,7 +6,6 @@ import cairoplot
 import elementtree.ElementTree as ET
 from elementtree.ElementTree import parse
 import xml.etree.ElementTree as xml
-import numpy
 import collections
 from PIL import Image, ImageSequence, ImagePalette
 
