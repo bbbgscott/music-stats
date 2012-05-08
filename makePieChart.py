@@ -13,7 +13,7 @@ genre = []
 year = []
 length = []
 
-tree = xml.parse("c:/list.xml")
+tree = xml.parse("c:/project/list.xml")
 rootElement = tree.getroot()
 songList = rootElement.findall("SONG")
 
