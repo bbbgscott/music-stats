@@ -12,9 +12,11 @@ from PIL import Image, ImageSequence, ImagePalette
 
 genre = []
 year = []
+yearUpdate = []
 length = []
+lengthUpdate = []
 
-tree = xml.parse("c:/list.xml")
+tree = xml.parse("c:/project/list.xml")
 rootElement = tree.getroot()
 songList = rootElement.findall("SONG")
 
@@ -26,8 +28,6 @@ if songList != None:
 		year.append(ykey)
 		lkey = song.findtext("LENGTH")
 		length.append(lkey)
-		
-
 
 def chartGenre():	
 	genre.sort()
@@ -39,10 +39,33 @@ def chartGenre():
 	print "Created Genre Pie Chart"
 
 
+def chartYear():
+	year.sort()
+	for x in year:
+		yearUpdate.append(x[:3] + "0s")
+		
+	c = collections.Counter(yearUpdate)
+	cairoplot.pie_plot('C:\project\images\pie_year.png', c, 480, 640, background = None, gradient = False, shadow = False, colors=None)
+	im = Image.open("C:\project\images\pie_year.png")
+	im = im.convert('RGB').convert('P', palette=Image.ADAPTIVE)
+	im.save('C:\project\images\pie_year.gif')	
+	print "Created Year Pie Chart"
+
+def chartLength():
+	length.sort()
+	for x in length:
+		lengthUpdate.append(x[:2] + "00")
+		
+	c = collections.Counter(lengthUpdate)
+	cairoplot.pie_plot('C:\project\images\pie_length.png', c, 480, 640, background = None, gradient = False, shadow = False, colors=None)
+	im = Image.open("C:\project\images\pie_length.png")
+	im = im.convert('RGB').convert('P', palette=Image.ADAPTIVE)
+	im.save('C:\project\images\pie_length.gif')	
+	print "Created Length Pie Chart"
 
 chartGenre()
-
-
+chartYear()
+chartLength()
 
 
 

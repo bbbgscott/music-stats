@@ -14,11 +14,11 @@ class DirWalker(object):
 			if os.path.isdir(nfile):
 				print "Here First"
 				self.walk(nfile, meth)
-			else:
+			else:				
 				meth(nfile)
 
 	def cb(self, file):
-		allowedList = [".wav", ".aif", ".mp3", ".mid", ".ogg", ".m4a", ".mpa", ".wma"]
+		allowedList = [".mp3"]
 		ext = os.path.splitext(file)
 		tag = eyeD3.Tag()
 		tag.link(file)
@@ -33,6 +33,7 @@ class DirWalker(object):
 			g = str(tag.getGenre())
 			m = re.search('(?<=\\))\w+', g)
 			print "Genre: %s" % str(m.group(0))
+			print ' '
 
 def stripPath(file):
 	if file.partition('\\')[2]:

@@ -2,28 +2,25 @@ import elementtree.ElementTree as ET
 from elementtree.ElementTree import parse
 from elementtree.SimpleXMLWriter import XMLWriter
 import eyeD3
-
-
 import sys
 
-def run():
-
+def run():	
 	x = XMLWriter("test.xml")
-
 	musicLibrary = x.start("musicLibrary")
-
-	x.start("song")
-	x.element("id", "2")
-	x.element("title", "Jigga What/Faint")
-	x.element("artist", "Linkin Park/Jay Z")
-	x.element("year", "2004")
-	x.element("trackNumber", "3")
-	x.element("totalTracks", "6")
-	x.element("genre", "Rap/Nu Metal")
-	x.end("song")
+	x.start("SONG")
+	x.element("ID", "2")
+	x.element("TITLE", "Jigga What/Faint")
+	x.element("ARTIST", "Linkin Park/Jay Z")
+	x.element("ALBUM", "2004")
+	x.element("YEAR", "2004")
+	x.element("TRACK", "3")
+	x.element("LENGTH", "3:12")
+	x.element("GENRE", "Rap")
+	x.end("SONG")
 	x.close(musicLibrary)	
 
-run()
+	
+run()	
 """
 # build a tree structure
 root = ET.Element("musicLibrary")
